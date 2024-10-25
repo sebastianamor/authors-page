@@ -25,7 +25,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-  }
+  } 
   
   .user-card {
     border-radius: 15px;
